@@ -1,0 +1,12 @@
+node_modules
+.svelte-kit
+build
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.vercel
+Inter-4.1
+openspec
+.claude
