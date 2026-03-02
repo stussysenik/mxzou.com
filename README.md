@@ -1,4 +1,16 @@
+<div align="center">
+
 # mxzou.com
+
+### Minimal identity portal
+
+[![Language](https://img.shields.io/github/languages/top/stussysenik/mxzou.com?style=flat-square)]()
+[![Last Commit](https://img.shields.io/github/last-commit/stussysenik/mxzou.com?style=flat-square)]()
+[![Repo Size](https://img.shields.io/github/repo-size/stussysenik/mxzou.com?style=flat-square)]()
+
+</div>
+
+---
 
 Minimal portal linking two identities:
 
