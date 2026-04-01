@@ -2,6 +2,9 @@
 
 # mxzou.com
 
+![Demo](demo.gif)
+
+
 ### Minimal identity portal
 
 [![Language](https://img.shields.io/github/languages/top/stussysenik/mxzou.com?style=flat-square)]()
